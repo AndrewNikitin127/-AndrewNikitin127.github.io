@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(35, 45, 190);
+}
+
+header a {
+    font-size: x-large;
+    color: rgb(199, 39, 39);
+
+}
+
+.professionalBackground h3 {
+    margin-bottom: -12px;
+}
+
+.professionalBackground h2 {
+    margin-top: 50px;
+    font-size: 1cm;
+}
